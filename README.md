@@ -1,4 +1,4 @@
-### Hi! I'am Anastasiia and I'am Junior Frontend-developer!
+### Hi ! I'am Anastasiia and I'am a Junior Frontend-developer !
 
 ### Languages and Tools
 
