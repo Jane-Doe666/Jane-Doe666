@@ -1,5 +1,6 @@
-### Hi ! I'am Anastasiia and I'am a Junior Frontend-developer !
+### *Hi ! I'am Anastasiia* :wink: *and I'am a Junior Frontend-developer !* 
 
+___
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
@@ -8,6 +9,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Visual-Studio-Code](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Visual-Studio-Code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm)
+
+___
 
 ### Follow me
 
