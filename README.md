@@ -11,4 +11,9 @@ Header
 ![Visual-Studio-Code](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=Visual-Studio-Code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm)
 
-Follow me
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/jane_doe999)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/empty.shell.12)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte)](https://vk.com/emptysh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anastasia-kazak)
