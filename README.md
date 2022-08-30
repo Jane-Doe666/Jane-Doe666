@@ -4,6 +4,6 @@ Header
 
 ### Languages and Tools
 
-![Telegram](https://img.shields.io/badge/-Flutter-9f9f9f-?style=for-the-badge&logo=Telegram)
+![Telegram](https://img.shields.io/badge/-Flutter-090909-?style=for-the-badge&logo=Telegram)
 
 Follow me
