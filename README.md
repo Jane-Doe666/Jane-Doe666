@@ -1,6 +1,4 @@
-Header
-
-### I'am Junior Frontend-developer
+### Hi! I'am Anastasiia and I'am Junior Frontend-developer!
 
 ### Languages and Tools
 
@@ -17,3 +15,5 @@ Header
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/empty.shell.12)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte)](https://vk.com/emptysh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anastasia-kazak)
+
+![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jane-Doe666&hide=contribs,prs)
